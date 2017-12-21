@@ -2,14 +2,14 @@
 Customize your Leaflet story map with linked Google Sheets template and scrolling narrative
 
 ## Live links (replace with your own)
-- Map http://datavizforall.github.io/leaflet-storymaps-with-google-sheets/index.html
+- Map http://travisajohnson.github.io/leaflet-storymaps-with-google-sheets/index.html
 - Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/
 
 ## Create your own
 - See step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/storymaps/
 
 ### TO DO: review and clean up list below
-
+i
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
 - Inspired by: Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause)
